@@ -22,10 +22,11 @@ System Requirements
 Dependencies
 -------------------
 
-The code was run with OpenCV 2.4.3 and Python 2.7
+The code was run with OpenCV 3 and Python 3
 The following python modules should be downoaded and installed:
-numpy (version 1.7.0)
-Python Imaging Library PIL (free version 1.1.7)
+- numpy
+- Python Imaging Library PIL (Pillow)
+Run `pip install -r requirements.txt` to install them.
 
 Code Overview
 -------------
